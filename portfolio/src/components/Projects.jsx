@@ -14,7 +14,7 @@ const Projects = () => {
             description:
                 "A personal portfolio website built with React. It showcases my work, skills, and experience.",
             image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9ydGZvbGlvJTIwd2Vic2l0ZXxlbnwwfHwwfHx8MA%3D%3D",
-            link: "https://personal-portfolio-kappa-one-99.vercel.app/",
+            link: "https://brenda-portfolio-w6el.vercel.app/",
         },
         {
             title: "Utalii ",
