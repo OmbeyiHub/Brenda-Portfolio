@@ -52,7 +52,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="about-image-container">
-                    <img src="/images/pic1.avif" alt="Brenda" className="about-image" />
+                    <img src="https://images.unsplash.com/photo-1508780709619-79562169bc64?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaCUyMGxhZHl8ZW58MHx8MHx8fDA%3D" alt="Brenda" className="about-image" />
                 </div>
             </div>
 
@@ -66,40 +66,40 @@ const Home = () => {
                 <div className="projects-grid">
                     <div className="project-card" data-aos="fade-up" data-aos-delay="100">
                         <div className="project-image">
-                            <img src="" alt="Digital Fest" />
+                            <img src="https://plus.unsplash.com/premium_photo-1661369734218-2156512875c6?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Digital Fest" />
                         </div>
                         <div className="project-details">
                             <h3 className="project-title">Digital Fest</h3>
                             <p className="project-description">
                                 A platform connecting users, enhancing user experience.
                             </p>
-                           {/* <a href="#" className="btn btn-solid" target="_blank" rel="noopener noreferrer">View on GitHub</a>*/}
+                            <a href="https://github.com/OmbeyiHub/DigitalFest-Events" className="btn btn-solid" target="_blank" rel="noopener noreferrer">View on GitHub</a>
                         </div>
                     </div>
 
                     <div className="project-card" data-aos="fade-up" data-aos-delay="300">
                         <div className="project-image">
-                            <img src="" alt="Utalii App" />
+                            <img src="https://images.unsplash.com/photo-1709841367504-63d9b2dd9ad0?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8a2VueWElMjB0b3Vyc3xlbnwwfHwwfHx8MA%3D%3D" alt="Utalii App" />
                         </div>
                         <div className="project-details">
                             <h3 className="project-title">Utalii Application</h3>
                             <p className="project-description">
                                 Kenya Tours helps tourists find hotels, parks, and beaches in Kenya.
                             </p>
-                           {/* <a href="#" className="btn btn-solid">View on GitHub</a>*/}
+                            <a href="https://github.com/OmbeyiHub/Kenya-Tours-Frontend" className="btn btn-solid">View on GitHub</a>
                         </div>
                     </div>
 
                     <div className="project-card" data-aos="fade-up" data-aos-delay="500">
                         <div className="project-image">
-                            <img src="images/pic4.png" alt="Portfolio Website" />
+                            <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9ydGZvbGlvJTIwd2Vic2l0ZXxlbnwwfHwwfHx8MA%3D%3D" alt="Portfolio Website" />
                         </div>
                         <div className="project-details">
                             <h3 className="project-title">Portfolio Website</h3>
                             <p className="project-description">
                                 Showcases my work and growth as a developer.
                             </p>
-                            {/*<a href="#" className="btn btn-solid">View on GitHub</a>*/}
+                            <a href="https://github.com/OmbeyiHub/Personal-Portfolio" className="btn btn-solid">View on GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@ const Home = () => {
                 </p>
                 <div className="technologies-cards">
                     <div className="technology-card" data-aos="fade-right">
-                        <img src="images/pic6.avif" alt="Front-End Development" />
+                        <img src="https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Front-End Development" />
                         <h3>Front-End Development Expertise</h3>
                         <p>
                             Skilled in HTML, CSS, and JavaScript for seamless user experiences.
@@ -121,7 +121,7 @@ const Home = () => {
                         <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                     <div className="technology-card" data-aos="fade-left">
-                        <img src="images/pic7.avif" alt="React and Python" />
+                        <img src="https://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=400" alt="React and Python" />
                         <h3>React and Python Proficiency</h3>
                         <p>
                             Strong command of React and Python for robust applications.
@@ -129,7 +129,7 @@ const Home = () => {
                         <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                     <div className="technology-card" data-aos="fade-up">
-                        <img src="images/pic8.jpeg" alt="Flask for Back-End Solutions" />
+                        <img src="https://banner2.cleanpng.com/20180829/qut/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946811244.webp" alt="Flask for Back-End Solutions" />
                         <h3>Flask for Back-End Solutions</h3>
                         <p>
                             Uses Flask for secure and reliable server-side operations.
